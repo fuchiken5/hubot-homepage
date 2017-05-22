@@ -24,7 +24,7 @@ module.exports = (robot) ->
     .join '\n'
     html = """
       <html>
-      <head><title>Links</title></head>
+      <head><title>HP Links</title></head>
       <body>
         <h1>Links</h1>
         <ul>
