@@ -26,7 +26,7 @@ module.exports = (robot) ->
       <html>
       <head><title>HP Links</title></head>
       <body>
-        <h1>Links</h1>
+        <h1>HP Links</h1>
         <ul>
         #{li}
         </ul>
